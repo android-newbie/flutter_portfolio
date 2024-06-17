@@ -8,7 +8,7 @@ Color kGradient2 = Colors.yellow;
 String imagePath = "images/profile.jpg";
 
 //String data to modify
-String name = "Piyush Verma";
+String name = "Piyush ";
 String username = "mobileDev";
 
 //Link to resume on Google Drive
